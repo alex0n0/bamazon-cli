@@ -20,8 +20,10 @@ Clone the repository and run the following commands in the command line/terminal
     npm run manager
 
 Customer Interface
+![Image - Prompts](./assets/screenshots/customer_screenshot.png)
 
 Manager Interface
+![Image - Prompts](./assets/screenshots/manager_screenshot.png)
 
 ## Technologies Used
 
